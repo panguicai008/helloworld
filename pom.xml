@@ -6,6 +6,7 @@
   <packaging>war</packaging>
   <name>helloworld</name>
     <!--test0516-->
+    <!--test0518-->
     <build>
         <finalName>${artifactId}</finalName>
         <plugins>
